@@ -14,6 +14,7 @@ L’équipe informatique du lycée souhaite disposer d’une application Web, h�
 
 Environnement de Développement Intégré (IDE):
 Netbeans
+Sublime Text
 
 La base de données:
 MySQL 
